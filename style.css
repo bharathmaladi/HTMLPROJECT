@@ -1,0 +1,33 @@
+.banner{
+  background: url(cover.png) no-repeat;
+  width:960px;
+  height:400px;
+}
+header{
+  overflow: hidden;
+}
+a{
+  colour:black;
+  text-decoration: none;
+}
+header h1{
+  background: url(logo.jpg) no-repeat;
+  text-indent: -9999px;
+  width: 180px;
+  height: 75px;
+  margin: 10px 10px 20px 10px;
+  float: left;
+}
+.main{
+  margin-top: 20px;
+}
+nav{
+  position: relative;
+  top:50px;
+  float: right;
+padding-top: 20px
+  }
+nav li{
+  display: inline;
+
+}
